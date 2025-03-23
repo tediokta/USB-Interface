@@ -2,8 +2,8 @@
 Praktik USB Interface - Teknik Antarmuka
 
 ## Langkah-Langkah Install Proteus Pro 8.11
-1. Download file installer Proteus Pro 8.11 pada link dibawah ini
-•	https://drive.google.com/file/d/1SqLdVgLezJHCDS34WtvK6GITcXdAwDNX/view?usp=sharing
+1. Download file installer Proteus Pro 8.11 pada link: 
+   https://drive.google.com/file/d/1SqLdVgLezJHCDS34WtvK6GITcXdAwDNX/view?usp=sharing
 
 3. Download, install, dan jalankan Proteus Pro 8.11.
 4. Apabila di devices “libraries not found!”, close program proteus.
@@ -30,11 +30,11 @@ Praktik USB Interface - Teknik Antarmuka
 
 ## Install Software (USB) HID Terminal
 1. Download file installer (USB) HID Terminal pada link:
-•	https://github.com/tediokta/USB-Interface/blob/main/Hid%20Terminal.rar
+   https://github.com/tediokta/USB-Interface/blob/main/Hid%20Terminal.rar
 2. Install dan Jalankan program HID Terminal Tersebut
 
 
 ## Download file .hex
-- Download file USB Interface.hex pada link:
+- Download file _USB Interface.hex_ pada link:
   https://github.com/tediokta/USB-Interface/blob/main/usb_interface.hex
 

@@ -19,7 +19,7 @@ Praktik USB Interface - Teknik Antarmuka
    ![alt text](https://github.com/tediokta/ElDa/blob/main/Proteus%201.jpg)
 
 10. Akan muncul windows security warning, tunggu sampai proses selesai.
-11. Buka kembali program proteus, maka libraries sudah muncul
+11. Buka kembali program proteus, maka libraries sudah muncul.
 
 
 ## Mengaktifkan Virtual USB Driver
@@ -33,10 +33,13 @@ Praktik USB Interface - Teknik Antarmuka
 ## Install Software (USB) HID Terminal
 1. Download file installer (USB) HID Terminal pada link:
    https://github.com/tediokta/USB-Interface/blob/main/Hid%20Terminal.rar
-2. Install dan Jalankan program HID Terminal Tersebut
+2. Install dan Jalankan program HID Terminal Tersebut.
+![image](https://github.com/user-attachments/assets/370a9d55-e086-44ec-934a-eed7e14b3623)
+
 
 
 ## Download file .hex
-- Download file _USB Interface.hex_ pada link:
+- Download file _USB_Interface.hex_ pada link:
   https://github.com/tediokta/USB-Interface/blob/main/usb_interface.hex
+  
 

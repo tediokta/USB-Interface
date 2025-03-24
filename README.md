@@ -22,10 +22,12 @@ Praktik USB Interface - Teknik Antarmuka
 11. Buka kembali program proteus, maka libraries sudah muncul
 
 
-## Mengaktifkan Virtual USB Device
-1. Buka di windowas explorer proteus 8 install directory di file explorer “C:\Program Files (x86)\Labcenter 
+## Mengaktifkan Virtual USB Driver
+1. Buka di file explorer untuk install directory di file explorer proteus 8 “C:\Program Files (x86)\Labcenter 
    Electronics\Proteus 8 Professional\DRIVERS
-2. Cari file VirtualNetworkDriver, klik install.
+2. Cari file VirtualUSBDriver, klik install.
+![image](https://github.com/user-attachments/assets/82a6da80-da7b-4448-8464-a337a13e8e21)
+
 
 
 ## Install Software (USB) HID Terminal
